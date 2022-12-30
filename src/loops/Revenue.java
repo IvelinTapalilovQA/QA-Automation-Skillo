@@ -6,7 +6,6 @@ public class Revenue {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-
         int unitPrice = scanner.nextInt();
         int quantity = scanner.nextInt();
         int revenue = unitPrice * quantity;
