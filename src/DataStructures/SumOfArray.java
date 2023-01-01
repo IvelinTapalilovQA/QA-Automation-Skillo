@@ -8,6 +8,7 @@ public class SumOfArray {
 
         System.out.println("Enter size: ");
         int arraySize = scanner.nextInt();
+
         int[] arrayOfNumbers = new int[arraySize];
         int sumOfArray = 0;
 
@@ -20,6 +21,7 @@ public class SumOfArray {
         for (int currentArrayNumber : arrayOfNumbers) {
             sumOfArray += currentArrayNumber;
         }
+
     System.out.println(sumOfArray);
     }
 }

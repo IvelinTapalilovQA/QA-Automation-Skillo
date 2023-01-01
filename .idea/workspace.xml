@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b598503-9200-40d1-b23b-0171de83e43a" name="Changes" comment="Commit loops">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loops/Vacation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/Vacation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/SumOfArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,22 +34,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Vacation">
+  <component name="RunManager" selected="Application.SumOfArray">
     <configuration name="ArrayDivisible" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loops.ArrayDivisible" />
-      <module name="QA-Automation-Skillo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="loops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Revenue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.Revenue" />
       <module name="QA-Automation-Skillo" />
       <extension name="coverage">
         <pattern>
@@ -68,6 +54,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructures.SumOfArray" />
+      <module name="QA-Automation-Skillo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructures.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfArray" />
         <item itemvalue="Application.Vacation" />
         <item itemvalue="Application.ReverseTheArray" />
         <item itemvalue="Application.ArrayDivisible" />
         <item itemvalue="Application.TheLargestNumber" />
-        <item itemvalue="Application.Revenue" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672597859021</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Commit loops">
+      <created>1672600776962</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1672600776962</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
