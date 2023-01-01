@@ -17,6 +17,7 @@ public class SumOfArray {
         }
 
         int sumOfArray = 0;
+
         for (int currentArrayNumber : arrayOfNumbers) {
             sumOfArray += currentArrayNumber;
         }
