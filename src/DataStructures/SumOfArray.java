@@ -10,14 +10,13 @@ public class SumOfArray {
         int arraySize = scanner.nextInt();
 
         int[] arrayOfNumbers = new int[arraySize];
-        int sumOfArray = 0;
-
 
         for (int j = 0; j < arrayOfNumbers.length; j++) {
             System.out.println("Enter digit: ");
             arrayOfNumbers[j] = scanner.nextInt();
         }
 
+        int sumOfArray = 0;
         for (int currentArrayNumber : arrayOfNumbers) {
             sumOfArray += currentArrayNumber;
         }
