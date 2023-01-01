@@ -6,24 +6,28 @@ public class Vacation {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
+        System.out.println("Enter budget: ");
+        int budget = scanner.nextInt();
+        System.out.println("Enter count of people: ");
+        int countOfPeople = scanner.nextInt();
+        System.out.println("Enter count of days: ");
+        int days = scanner.nextInt();
         System.out.println("Enter the destination: ");
         String vacationType = scanner.nextLine();
+        int budgetPerDay = budget / (countOfPeople * days);
+
 
         if (vacationType.equals("Beach")) {
-            System.out.println("Enter budget per person: ");
-            int budget = scanner.nextInt();
 
-            if (budget > 0 && budget < 50) {
+            if (budgetPerDay > 0 && budgetPerDay < 50) {
                 System.out.println("You can go to holiday in Golden sands or Sunny beach?");
-            } else if (budget > 50)
+            } else if (budgetPerDay > 50)
                 System.out.println("You can go to holiday in Maldivi sands or Bali?");
         } else if (vacationType.equals("Mountain")) {
-            System.out.println("Enter budget per person: ");
-            int budget = scanner.nextInt();
 
-            if (budget > 0 && budget < 30) {
+            if (budgetPerDay > 0 && budgetPerDay < 30) {
                 System.out.println("You can go to holiday in Borovets or Bansko?");
-            } else if (budget > 30) {
+            } else if (budgetPerDay > 30) {
                 System.out.println("You can go to holiday in Swiss Alps or Mount Everest?");
             }
         } else {
