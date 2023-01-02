@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b598503-9200-40d1-b23b-0171de83e43a" name="Changes" comment="Data Structures">
-      <change afterPath="$PROJECT_DIR$/src/DataStructures/BiggestElementInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/SumOfDiagonalMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BiggestElementInArray">
+  <component name="RunManager" selected="Application.SumOfDiagonalMatrix">
     <configuration name="BiggestElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataStructures.BiggestElementInArray" />
       <module name="QA-Automation-Skillo" />
@@ -62,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseTheArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.ReverseTheArray" />
+    <configuration name="SumOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructures.SumOfArray" />
       <module name="QA-Automation-Skillo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loops.*" />
+          <option name="PATTERN" value="DataStructures.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructures.SumOfArray" />
+    <configuration name="SumOfDiagonalMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructures.SumOfDiagonalMatrix" />
       <module name="QA-Automation-Skillo" />
       <extension name="coverage">
         <pattern>
@@ -103,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfDiagonalMatrix" />
         <item itemvalue="Application.BiggestElementInArray" />
         <item itemvalue="Application.PrintMatrix" />
         <item itemvalue="Application.SumOfArray" />
         <item itemvalue="Application.Vacation" />
-        <item itemvalue="Application.ReverseTheArray" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672607916553</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Data Structures">
+      <created>1672694825622</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1672694825623</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -278,6 +285,11 @@
           <url>file://$PROJECT_DIR$/src/DataStructures/PrintMatrix.java</url>
           <line>16</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructures/SumOfDiagonalMatrix.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
