@@ -9,13 +9,13 @@ public class PalindromeString {
         System.out.println("Enter the word: ");
         String wordInput = scanner.next();
 
-        String reversedWord = "";
+        StringBuilder reversedWord = new StringBuilder();
         boolean isPalindrome = false;
 
         for (int i = 0; i < wordInput.length(); i++) {
-             reversedWord += wordInput.charAt((wordInput.length() - 1) - i );
+            reversedWord.append(wordInput.charAt((wordInput.length() - 1) - i));
         }
-        if (wordInput.equals(reversedWord)){
+        if (wordInput.equals(reversedWord.toString())){
             isPalindrome = true;
         }
     System.out.println(isPalindrome);
