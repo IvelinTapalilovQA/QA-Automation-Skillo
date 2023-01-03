@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b598503-9200-40d1-b23b-0171de83e43a" name="Changes" comment="Data Structures">
-      <change afterPath="$PROJECT_DIR$/src/DataStructures/SumOfDiagonalMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/PalindromeString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,9 +35,22 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SumOfDiagonalMatrix">
+  <component name="RunManager" selected="Application.PalindromeString">
     <configuration name="BiggestElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataStructures.BiggestElementInArray" />
+      <module name="QA-Automation-Skillo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructures.PalindromeString" />
       <module name="QA-Automation-Skillo" />
       <extension name="coverage">
         <pattern>
@@ -88,26 +101,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Vacation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.Vacation" />
-      <module name="QA-Automation-Skillo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="loops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalindromeString" />
         <item itemvalue="Application.SumOfDiagonalMatrix" />
         <item itemvalue="Application.BiggestElementInArray" />
         <item itemvalue="Application.PrintMatrix" />
         <item itemvalue="Application.SumOfArray" />
-        <item itemvalue="Application.Vacation" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672694825623</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Data Structures">
+      <created>1672697772465</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1672697772465</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -290,6 +297,11 @@
           <url>file://$PROJECT_DIR$/src/DataStructures/SumOfDiagonalMatrix.java</url>
           <line>22</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructures/PalindromeString.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
