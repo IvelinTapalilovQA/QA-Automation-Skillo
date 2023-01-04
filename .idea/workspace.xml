@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b598503-9200-40d1-b23b-0171de83e43a" name="Changes" comment="Methods">
-      <change afterPath="$PROJECT_DIR$/src/Methods/ReverseNumber.java" afterDir="false" />
+    <list default="true" id="8b598503-9200-40d1-b23b-0171de83e43a" name="Changes" comment="OOP">
+      <change afterPath="$PROJECT_DIR$/src/OOP/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ReverseNumber">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="CountingWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Methods.CountingWords" />
       <module name="QA-Automation-Skillo" />
@@ -62,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MiddleCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.MiddleCharacter" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.Main" />
       <module name="QA-Automation-Skillo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Methods.*" />
+          <option name="PATTERN" value="OOP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructures.PalindromeString" />
+    <configuration name="MiddleCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.MiddleCharacter" />
       <module name="QA-Automation-Skillo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataStructures.*" />
+          <option name="PATTERN" value="Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ReverseNumber" />
         <item itemvalue="Application.EvenOrOdd" />
         <item itemvalue="Application.CountingWords" />
         <item itemvalue="Application.MiddleCharacter" />
-        <item itemvalue="Application.PalindromeString" />
       </list>
     </recent_temporary>
   </component>
@@ -288,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672865712680</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Methods">
+      <created>1672866738432</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1672866738432</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -318,7 +328,8 @@
     <MESSAGE value="Commit loops" />
     <MESSAGE value="Data Structures" />
     <MESSAGE value="Methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Methods" />
+    <MESSAGE value="OOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -360,17 +371,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Methods/ReverseNumber.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="14" />
+          <line>6</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Methods/ReverseNumber.java</url>
-          <line>11</line>
+          <line>13</line>
           <properties class="Methods.ReverseNumber" method="reverseString">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="15" />
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
