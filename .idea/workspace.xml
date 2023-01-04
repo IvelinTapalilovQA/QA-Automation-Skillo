@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b598503-9200-40d1-b23b-0171de83e43a" name="Changes" comment="Methods">
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/PalindromeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/PalindromeString.java" afterDir="false" />
+    <list default="true" id="8b598503-9200-40d1-b23b-0171de83e43a" name="Changes" comment="Data Structures">
+      <change afterPath="$PROJECT_DIR$/src/Methods/MiddleCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,13 +35,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PalindromeString">
-    <configuration name="BiggestElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructures.BiggestElementInArray" />
+  <component name="RunManager" selected="Application.MiddleCharacter">
+    <configuration name="MiddleCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.MiddleCharacter" />
       <module name="QA-Automation-Skillo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataStructures.*" />
+          <option name="PATTERN" value="Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MiddleCharacter" />
         <item itemvalue="Application.PalindromeString" />
         <item itemvalue="Application.averageValue" />
         <item itemvalue="Application.SmallestNumber" />
         <item itemvalue="Application.SumOfDiagonalMatrix" />
-        <item itemvalue="Application.BiggestElementInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672787512522</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Data Structures">
+      <created>1672788060172</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1672788060172</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -287,9 +295,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit loops" />
-    <MESSAGE value="Data Structures" />
     <MESSAGE value="Methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Methods" />
+    <MESSAGE value="Data Structures" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data Structures" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -320,9 +328,9 @@
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DataStructures/PalindromeString.java</url>
+          <url>file://$PROJECT_DIR$/src/Methods/MiddleCharacter.java</url>
           <line>9</line>
-          <option name="timeStamp" value="10" />
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
