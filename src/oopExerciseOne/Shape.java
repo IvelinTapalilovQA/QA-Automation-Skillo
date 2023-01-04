@@ -1,4 +1,4 @@
-package OOP;
+package oopExerciseOne;
 
 public abstract class Shape {
 

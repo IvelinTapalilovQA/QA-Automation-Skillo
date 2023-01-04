@@ -1,4 +1,4 @@
-package OOP;
+package oopExerciseOne;
 
 public class Square extends Shape {
     @Override

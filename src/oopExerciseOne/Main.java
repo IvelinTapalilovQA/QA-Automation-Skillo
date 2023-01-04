@@ -1,4 +1,4 @@
-package OOP;
+package oopExerciseOne;
 
 import java.util.Scanner;
 
