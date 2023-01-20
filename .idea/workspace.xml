@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b598503-9200-40d1-b23b-0171de83e43a" name="Changes" comment="OOP">
-      <change afterPath="$PROJECT_DIR$/src/oopExerciseTwo/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopExerciseTwo/Main.java" afterDir="false" />
+    <list default="true" id="8b598503-9200-40d1-b23b-0171de83e43a" name="Changes" comment="Commit Exercises">
+      <change afterPath="$PROJECT_DIR$/src/oopExerciseThree/American.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopExerciseThree/Bulgarian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopExerciseThree/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopExerciseThree/Italian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopExerciseThree/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopExerciseThree/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/BiggestElementInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructures/BiggestElementInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/PalindromeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructures/PalindromeString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/PrintMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructures/PrintMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/SumOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructures/SumOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/SumOfDiagonalMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructures/SumOfDiagonalMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Methods/CountingWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methods/CountingWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Methods/EvenOrOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methods/EvenOrOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Methods/MiddleCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methods/MiddleCharacter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Methods/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methods/ReverseNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Methods/SmallestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methods/SmallestNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Methods/averageValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methods/averageValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oopExerciseOne/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oopExerciseOne/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oopExerciseOne/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oopExerciseOne/Square.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,26 +34,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.oopExerciseTwo.Main">
-    <configuration name="CountingWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methods.CountingWords" />
-      <module name="QA-Automation-Skillo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Application.oopExerciseThree.Main">
     <configuration name="EvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="methods.EvenOrOdd" />
       <module name="QA-Automation-Skillo" />
@@ -104,6 +80,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="oopExerciseThree.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oopExerciseThree.Main" />
+      <module name="QA-Automation-Skillo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oopExerciseThree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="oopExerciseTwo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oopExerciseTwo.Main" />
       <module name="QA-Automation-Skillo" />
@@ -119,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.oopExerciseThree.Main" />
         <item itemvalue="Application.oopExerciseTwo.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ReverseNumber" />
         <item itemvalue="Application.EvenOrOdd" />
-        <item itemvalue="Application.CountingWords" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672869433968</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Commit Exercises">
+      <created>1672873741968</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1672873741968</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -343,13 +339,29 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit loops" />
     <MESSAGE value="Data Structures" />
     <MESSAGE value="Methods" />
     <MESSAGE value="OOP" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP" />
+    <MESSAGE value="Commit Exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Exercises" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -394,6 +406,11 @@
           <line>6</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/oopExerciseThree/Main.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/methods/ReverseNumber.java</url>
           <line>13</line>
@@ -402,6 +419,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/oopExerciseThree/Person.java</url>
+          <line>40</line>
+          <properties class="oopExerciseThree.Person" method="setAge">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
